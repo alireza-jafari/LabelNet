@@ -1,3 +1,5 @@
-# Implementation of SuperLabel article
+# Implementation of LabelNet article
 
-Prediction stock market movement direction using a combined graph-based semi-supervised learning and supervised learning model
+Using a hybrid model of supervised learning and label propagation for prediction of stock prices direction of movement
+
+The program takes about 6 hours to run
